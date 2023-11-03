@@ -9,4 +9,6 @@ My name is Mathilda Eriksson and I am currently studying [Webbutveckling](https:
 * Database Systems :heavy_check_mark:
 * Web Developement II (PHP) :heavy_check_mark:
 * Web Design for CMS :heavy_check_mark:
-* Web Developement III :heavy_check_mark:
+* Web Developement III (PHP & JS) :heavy_check_mark:
+* Full Stack Development with Frameworks (Laravel & Vue) :heavy_check_mark:
+* Project Management :heavy_check_mark:
